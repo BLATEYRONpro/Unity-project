@@ -1,0 +1,545 @@
+fileFormatVersion: 2
+guid: 8cf18a165975f1b44ae1dbcc3ac07c93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1518124641206235187
+    second: CharTile_0
+  - first:
+      213: 1194211921108379082
+    second: CharTile_1
+  - first:
+      213: -2899594227585288996
+    second: CharTile_2
+  - first:
+      213: 4768927207572514179
+    second: CharTile_3
+  - first:
+      213: 3693589682518808314
+    second: CharTile_4
+  - first:
+      213: -4276868025321341255
+    second: CharTile_5
+  - first:
+      213: 7775809127120203501
+    second: CharTile_6
+  - first:
+      213: 8114646789767469556
+    second: CharTile_7
+  - first:
+      213: 4085673969517886578
+    second: CharTile_8
+  - first:
+      213: 2614461300887974598
+    second: CharTile_9
+  - first:
+      213: -3250664795887704196
+    second: CharTile_10
+  - first:
+      213: -6761615426050930232
+    second: CharTile_11
+  - first:
+      213: 8529177859240631863
+    second: CharTile_12
+  - first:
+      213: 5370866672593644064
+    second: CharTile_13
+  - first:
+      213: -2360419797814342536
+    second: CharTile_14
+  - first:
+      213: -1578059972106138432
+    second: CharTile_15
+  - first:
+      213: 3486484564037358067
+    second: CharTile_16
+  - first:
+      213: 1289581029131008655
+    second: CharTile_17
+  - first:
+      213: -2774204427455975074
+    second: CharTile_18
+  - first:
+      213: -1107150666891150867
+    second: CharTile_19
+  - first:
+      213: 3934681057486180310
+    second: CharTile_20
+  - first:
+      213: -2692749297473153217
+    second: CharTile_21
+  - first:
+      213: -9170029589685071444
+    second: CharTile_22
+  - first:
+      213: 2464468129359047446
+    second: CharTile_23
+  - first:
+      213: -6373125093865298953
+    second: CharTile_24
+  - first:
+      213: 6249276550251268478
+    second: CharTile_25
+  - first:
+      213: -6910998662863259138
+    second: CharTile_26
+  - first:
+      213: 6162222405143060324
+    second: CharTile_27
+  - first:
+      213: -3029012731368573864
+    second: CharTile_28
+  - first:
+      213: -6683308322894678317
+    second: CharTile_29
+  - first:
+      213: -2709871445506584462
+    second: CharTile_30
+  - first:
+      213: 6144643023534265248
+    second: CharTile_31
+  - first:
+      213: 9179805432341359169
+    second: CharTile_32
+  - first:
+      213: -4771652730857809185
+    second: CharTile_33
+  - first:
+      213: 4083907983010339393
+    second: CharTile_34
+  - first:
+      213: 8155640375551862975
+    second: CharTile_35
+  - first:
+      213: -2107462680726490367
+    second: CharTile_36
+  - first:
+      213: -211925198480676659
+    second: CharTile_37
+  - first:
+      213: 5250486552559346070
+    second: CharTile_38
+  - first:
+      213: -7162350641157040165
+    second: CharTile_39
+  - first:
+      213: 6865758419785409493
+    second: CharTile_40
+  - first:
+      213: 6159127301129179787
+    second: CharTile_41
+  - first:
+      213: 3248235897835989830
+    second: CharTile_42
+  - first:
+      213: 9007598526882468207
+    second: CharTile_43
+  - first:
+      213: -952642884955760871
+    second: CharTile_44
+  - first:
+      213: -6907246936758760939
+    second: CharTile_45
+  - first:
+      213: 2961183545721338284
+    second: CharTile_46
+  - first:
+      213: -5842504244139169000
+    second: CharTile_47
+  - first:
+      213: -7171014486115956204
+    second: CharTile_48
+  - first:
+      213: -5100309875106717392
+    second: CharTile_49
+  - first:
+      213: -373637737205140690
+    second: CharTile_50
+  - first:
+      213: -807584243728403737
+    second: CharTile_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharTile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3307ddb5156711510800000000000000
+      internalID: 1518124641206235187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharTile_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5a3304a61b29010800000000000000
+      internalID: 1194211921108379082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharTile_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd47108a96292c7d0800000000000000
+      internalID: -2899594227585288996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharTile_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3852e074702ae2240800000000000000
+      internalID: 4768927207572514179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharTile_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6d49c2f34424330800000000000000
+      internalID: 3693589682518808314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharTile_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bebe77d03385a4c0800000000000000
+      internalID: -4276868025321341255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharTile_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee6d3ff33939eb60800000000000000
+      internalID: 7775809127120203501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharTile_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f99ad513440d9070800000000000000
+      internalID: 8114646789767469556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharTile_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c7c2514da33b830800000000000000
+      internalID: 4085673969517886578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharTile_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2fe6e73be684420800000000000000
+      internalID: 2614461300887974598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharTile_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77ee35479153e2d0800000000000000
+      internalID: -3250664795887704196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharTile_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9ce66389ae922a0800000000000000
+      internalID: -6761615426050930232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharTile_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e1a2ec21abd5670800000000000000
+      internalID: 8529177859240631863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
